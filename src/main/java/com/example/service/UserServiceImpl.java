@@ -14,7 +14,6 @@ public class UserServiceImpl implements UserService {
     private static final List<UserDto> allUsers = new ArrayList<>();
 
     static {
-        System.out.println("initial");
         allUsers.add(new UserDto("Max", "Max2000", "qwerty"));
         allUsers.add(new UserDto("Masha", "Masha123", "123"));
         allUsers.add(new UserDto("Andrew", "A100", "qwerty123"));
