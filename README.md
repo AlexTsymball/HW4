@@ -6,7 +6,7 @@
 * http://localhost:8082/ - сторінка з посиланням на login
 * http://localhost:8082/app/ - redirect to login
 * http://localhost:8082/app/login - сторінка з login
-* http://localhost:8082/app/welcome - сторінка з меню ("logout" та "all user")
+* http://localhost:8082/app/welcome - сторінка з меню ("logout" та "all users")
 * http://localhost:8082/app/users - сторінка з усіма користувачами
 * http://localhost:8082/app/logout - сторінка logout
 
